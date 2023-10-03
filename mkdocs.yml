@@ -1,6 +1,6 @@
 site_name: Blog # Change this to your site name
 site_description: Blogging Website For "Swallow4Daddy AKA ClearlyElevated AKA Nolan"
-site_url: https://github.com/nolan-tanzman/blog # Change this to your site URL
+site_url: https://nolan-tanzman.github.io/blog/ # Change this to your site URL
 
 theme:
     name: 'material'
