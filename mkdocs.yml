@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: Blog # Change this to your site name
+site_description: Blogging Website For "Swallow4Daddy AKA ClearlyElevated AKA Nolan"
+site_url: https://github.com/nolan-tanzman/blog # Change this to your site URL
 
 theme:
     name: 'material'
@@ -83,7 +83,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: fr
+      locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
